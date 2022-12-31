@@ -5,12 +5,7 @@
 💬 How to reach me: email: tranhieuglpk@gmail.com
 
 Flutter My Lib: 
-  * [Flutter_blue] [Link Demo][flutter_blue_demo]
-  * [Flash card][flash_card_link] 
-  * [Branch Component][branch_component]
-  * IDE download:
-  * [Tool code gen][tool_code_gen]]
-  * [Easy queue][easy_queue_link]
+  * Flutter_blue [Link source][flutter_blue_demo]
  
 
 <a href="https://www.buymeacoffee.com/brianTV98" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
