@@ -9,6 +9,12 @@ Flutter My Github:
   * [flutter_object_detect][flutter_object_detect_demo] 
   * [flutter_zoom][flutter_zoom_demo] 
   * [Money management][money_management_demo] 
+ <p float="left">
+ <img src="https://github.com/tranhieudevvietnam/flutter-money-management/blob/main/docs/images/image1.png" width="200">
+ <img src="https://github.com/tranhieudevvietnam/flutter-money-management/blob/main/docs/images/image2.png" width="200">
+ <img src="https://github.com/tranhieudevvietnam/flutter-money-management/blob/main/docs/images/image3.png" width="200">
+ <img src="https://github.com/tranhieudevvietnam/flutter-money-management/blob/main/docs/images/image_analysis.gif" width="200">
+ </p>
  
 
 <a href="https://www.buymeacoffee.com/brianTV98" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
