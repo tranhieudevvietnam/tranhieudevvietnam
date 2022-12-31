@@ -4,7 +4,7 @@
 
 💬 How to reach me: email: tranhieu.dev.vietnam@gmail.com
 
-Flutter My Lib: 
+Flutter My Github: 
   * [Flutter_bluetooth][flutter_bluetooth_demo] 
   * [flutter_object_detect][flutter_object_detect_demo] 
   * [flutter_zoom][flutter_zoom_demo] 
