@@ -8,6 +8,7 @@
  - Facebook: https://www.facebook.com/choc.loc.391?mibextid=LQQJ4d
 
 Flutter My Github: 
+  * [flutter_package][flutter_package_demo] 
   * [Flutter_bluetooth][flutter_bluetooth_demo] 
   * [flutter_object_detect][flutter_object_detect_demo] 
   * [flutter_zoom][flutter_zoom_demo] 
@@ -21,6 +22,7 @@ Flutter My Github:
  
 
 
+[flutter_package_demo]:<https://github.com/tranhieudevvietnam/flutter-packages>
 [flutter_bluetooth_demo]:<https://github.com/tranhieudevvietnam/flutter-packages/tree/main/flutter_blue>
 [flutter_object_detect_demo]:<https://github.com/tranhieudevvietnam/flutter-packages/tree/main/flutter_object_detect>
 [flutter_zoom_demo]:<https://github.com/tranhieudevvietnam/flutter-packages/tree/main/flutter_zoom>
