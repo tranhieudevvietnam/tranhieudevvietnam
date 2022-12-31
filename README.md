@@ -22,9 +22,9 @@ Flutter My Github:
  
 
 
-[flutter_package_demo]:<https://github.com/tranhieudevvietnam/flutter-packages>
-[flutter_bluetooth_demo]:<https://github.com/tranhieudevvietnam/flutter-packages/tree/main/flutter_blue>
-[flutter_object_detect_demo]:<https://github.com/tranhieudevvietnam/flutter-packages/tree/main/flutter_object_detect>
-[flutter_zoom_demo]:<https://github.com/tranhieudevvietnam/flutter-packages/tree/main/flutter_zoom>
-[money_management_demo]:<https://github.com/tranhieudevvietnam/flutter-money-management>
+[flutter_package_demo]:<https://github.dev/tranhieudevvietnam/flutter-packages>
+[flutter_bluetooth_demo]:<https://github.dev/tranhieudevvietnam/flutter-packages/tree/main/flutter_blue>
+[flutter_object_detect_demo]:<https://github.dev/tranhieudevvietnam/flutter-packages/tree/main/flutter_object_detect>
+[flutter_zoom_demo]:<https://github.dev/tranhieudevvietnam/flutter-packages/tree/main/flutter_zoom>
+[money_management_demo]:<https://github.dev/tranhieudevvietnam/flutter-money-management>
 
