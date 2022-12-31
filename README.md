@@ -2,7 +2,10 @@
 ![](https://github-readme-stats.vercel.app/api?username=tranhieudevvietnam&count_private=true&show_icons=true&theme=radical)
 
 
-💬 How to reach me: email: tranhieu.dev.vietnam@gmail.com
+💬 How to reach me:
+ - email: tranhieu.dev.vietnam@gmail.com
+ - skype: https://join.skype.com/invite/rhw8FGdGUdhc
+ - Facebook: https://www.facebook.com/choc.loc.391?mibextid=LQQJ4d
 
 Flutter My Github: 
   * [Flutter_bluetooth][flutter_bluetooth_demo] 
