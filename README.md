@@ -15,9 +15,9 @@ Flutter My Github:
   * [Money management][money_management_demo] 
  <p float="left">
  <img src="https://github.com/tranhieudevvietnam/flutter-money-management/blob/main/docs/images/image1.png" width="200">
+ <img src="https://github.com/tranhieudevvietnam/flutter-money-management/blob/main/docs/images/image_analysis.gif" width="200">
  <img src="https://github.com/tranhieudevvietnam/flutter-money-management/blob/main/docs/images/image2.png" width="200">
  <img src="https://github.com/tranhieudevvietnam/flutter-money-management/blob/main/docs/images/image3.png" width="200">
- <img src="https://github.com/tranhieudevvietnam/flutter-money-management/blob/main/docs/images/image_analysis.gif" width="200">
  </p>
  
 
