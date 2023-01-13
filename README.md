@@ -5,7 +5,6 @@
 💬 How to reach me:
  - email: tranhieu.dev.vietnam@gmail.com
  - skype: https://join.skype.com/invite/rhw8FGdGUdhc
- - Facebook: https://www.facebook.com/choc.loc.391?mibextid=LQQJ4d
 
 Flutter My Github: 
   * [flutter_package][flutter_package_demo] 
