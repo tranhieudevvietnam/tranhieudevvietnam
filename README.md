@@ -17,12 +17,6 @@ Flutter My Github:
  <img src="https://github.com/tranhieudevvietnam/flutter-money-management/blob/main/docs/images/image2.png" width="200">
  <img src="https://github.com/tranhieudevvietnam/flutter-money-management/blob/main/docs/images/image3.png" width="200">
  </p>
-
- <p float="left">
-<video src="./demo-object-detect.mp4" width="200">
- <video src="https://github.com/tranhieudevvietnam/tranhieudevvietnam/assets/82859719/f90690f8-cc38-4c92-9f3e-939959064c2f">
-</p>
-
   
   * [flutter_dice_game][flutter_dice_game_demo] 
 
@@ -31,7 +25,6 @@ Flutter My Github:
   * [flutter_object_detect][flutter_object_detect_demo]
 
 https://github.com/tranhieudevvietnam/tranhieudevvietnam/assets/82859719/f90690f8-cc38-4c92-9f3e-939959064c2f
-
 
 
 
