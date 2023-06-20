@@ -20,15 +20,11 @@ Flutter My Github:
  
   * [flutter_dice_game][flutter_dice_game_demo] 
 
-
  https://user-images.githubusercontent.com/82859719/212289051-8dc9be21-d3ad-4a91-9396-8c8f56f56a3c.mp4
- 
-
  
   * [flutter_object_detect][flutter_object_detect_demo]
 
-
-https://github.com/tranhieudevvietnam/tranhieudevvietnam/assets/82859719/3ed3defe-d125-4509-af34-cc4f0eb0a329
+https://github.com/tranhieudevvietnam/tranhieudevvietnam/assets/82859719/f90690f8-cc38-4c92-9f3e-939959064c2f
 
 
 
