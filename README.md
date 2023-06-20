@@ -40,4 +40,4 @@ https://github.com/tranhieudevvietnam/tranhieudevvietnam/assets/82859719/3ed3def
 [flutter_zoom_demo]:<https://github.dev/tranhieudevvietnam/flutter-packages/tree/main/flutter_zoom>
 [money_management_demo]:<https://github.dev/tranhieudevvietnam/flutter-money-management>
 [flutter_dice_game_demo]:<https://github.dev/tranhieudevvietnam/flutter_dice_game>
-[flutter_object_detect_demo]:<https://github.dev/tranhieudevvietnam/flutter_object_detect>
+[flutter_object_detect_demo]:<https://github.dev/tranhieudevvietnam/flutter_object_detect> 
