@@ -25,6 +25,14 @@ Flutter My Github:
  https://user-images.githubusercontent.com/82859719/212289051-8dc9be21-d3ad-4a91-9396-8c8f56f56a3c.mp4
  
 
+ 
+  * [flutter_dice_game][flutter_dice_game_demo]
+
+
+https://github.com/tranhieudevvietnam/tranhieudevvietnam/assets/82859719/3ed3defe-d125-4509-af34-cc4f0eb0a329
+
+
+
 
 [flutter_package_demo]:<https://github.dev/tranhieudevvietnam/flutter-packages>
 [flutter_bluetooth_demo]:<https://github.dev/tranhieudevvietnam/flutter-packages/tree/main/flutter_blue>
