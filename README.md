@@ -19,7 +19,7 @@ Flutter My Github:
  </p>
 
  <p float="left">
-<video src="https://user-images.githubusercontent.com/82859719/212289051-8dc9be21-d3ad-4a91-9396-8c8f56f56a3c.mp4">
+<video src="./demo-object-detect.mp4" width="200">
  <video src="https://github.com/tranhieudevvietnam/tranhieudevvietnam/assets/82859719/f90690f8-cc38-4c92-9f3e-939959064c2f">
 </p>
 
