@@ -10,7 +10,7 @@ Flutter My Github:
   * [flutter_package][flutter_package_demo] 
   * [Flutter_bluetooth][flutter_bluetooth_demo] 
   * [flutter_zoom][flutter_zoom_demo] 
-  * [Money management][money_management_demo] 
+  * [Money management][money_management_demo]
  <p float="left">
  <img src="https://github.com/tranhieudevvietnam/flutter-money-management/blob/main/docs/images/image1.png" width="200">
  <img src="https://github.com/tranhieudevvietnam/flutter-money-management/blob/main/docs/images/image_analysis.gif" width="200">
@@ -18,6 +18,11 @@ Flutter My Github:
  <img src="https://github.com/tranhieudevvietnam/flutter-money-management/blob/main/docs/images/image3.png" width="200">
  </p>
   
+  * [Calendar][flutter_calendar_demo]
+   <p float="left">
+ <img src="https://github.com/tranhieudevvietnam/flutter_calendar/blob/main/video-demo.gif" width="300">
+ </p>
+ 
   * [flutter_dice_game][flutter_dice_game_demo] 
 
  https://user-images.githubusercontent.com/82859719/212289051-8dc9be21-d3ad-4a91-9396-8c8f56f56a3c.mp4
@@ -33,4 +38,5 @@ https://github.com/tranhieudevvietnam/tranhieudevvietnam/assets/82859719/f90690f
 [flutter_zoom_demo]:<https://github.dev/tranhieudevvietnam/flutter-packages/tree/main/flutter_zoom>
 [money_management_demo]:<https://github.dev/tranhieudevvietnam/flutter-money-management>
 [flutter_dice_game_demo]:<https://github.dev/tranhieudevvietnam/flutter_dice_game>
-[flutter_object_detect_demo]:<https://github.dev/tranhieudevvietnam/flutter_object_detect> 
+[flutter_calendar_demo]:<https://github.com/tranhieudevvietnam/flutter_calendar> 
+
