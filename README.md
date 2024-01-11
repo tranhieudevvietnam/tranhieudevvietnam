@@ -38,5 +38,6 @@ https://github.com/tranhieudevvietnam/tranhieudevvietnam/assets/82859719/f90690f
 [flutter_zoom_demo]:<https://github.dev/tranhieudevvietnam/flutter-packages/tree/main/flutter_zoom>
 [money_management_demo]:<https://github.dev/tranhieudevvietnam/flutter-money-management>
 [flutter_dice_game_demo]:<https://github.dev/tranhieudevvietnam/flutter_dice_game>
+[flutter_object_detect_demo]:<https://github.dev/tranhieudevvietnam/flutter_dice_game>
 [flutter_calendar_demo]:<https://github.com/tranhieudevvietnam/flutter_calendar> 
 
